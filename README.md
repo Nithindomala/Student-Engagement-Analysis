@@ -14,7 +14,7 @@
   The data used in this project comes from the 365 Data Science website, tracking how many minutes students spent watching content in Q4 2021 and Q4 2022. It helps 
  analyze changes in student engagement over time, comparing paid and free-plan users.[Raw Data File Link] 
 - ### Descriptive Statistics:
-  Analyzed engagement data for both paid and free-plan students using key metrics like mean, median, and standard deviation. By exploring skewness and kurtosis, we uncovered important patterns—revealing asymmetries in engagement and identifying outliers, which highlighted extreme behaviors.
+  Analyzed engagement data for both paid and free-plan students using key metrics like mean, median, and standard deviation. By exploring skewness and kurtosis, we uncovered important patterns—revealing asymmetries in engagement and identifying outliers, which highlighted extreme behaviors.[Raw Data File](https://github.com/Nithindomala/Student-Engagement-Analysis/blob/main/Descriptive%20Statistics%20-%20tasks%201-2.xlsx)
   
 - ### Confidence Intervals: 
   Calculated confidence intervals to confidently estimate the range of student engagement across both years, enabling a clear view of how student behavior shifted between 2021 and 2022. This provided a solid foundation for further analysis.
