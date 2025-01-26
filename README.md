@@ -1,7 +1,7 @@
 # Student Engagement Analysis
 ## Project Objective
- This project aims to analyze students' engagement using a platform with paid and free subscription plans. The analysis compares student activity from Q4 2021 to Q4 2022, examining how their viewing habits 
- changed over time, and how engagement differs between paid and free plan users. We aim to identify trends and insights that can inform platform improvements and strategies to boost user engagement.
+  This project aims to analyze students' engagement using a platform with paid and free subscription plans. The analysis compares student activity from Q4 2021 to Q4 2022, examining how their viewing habits 
+  changed over time, and how engagement differs between paid and free plan users. We aim to identify trends and insights that can inform platform improvements and strategies to boost user engagement.
 
 ## Process
 - ### Data Collection:
@@ -37,6 +37,6 @@
   especially among Indian students in 2022, suggesting a highly engaged subset.
 
 ## Final Conclusion
- The analysis shows that paid-plan students significantly increased their engagement over the one year, while free-plan students showed mixed results, with a decrease in typical engagement. The findings suggest 
- that the paid-plan model leads to higher engagement, but there is a need for targeted strategies to boost the engagement of free-plan users. Additionally, regional differences, especially between students in the 
- US and India, highlight potential areas for growth and content customization.
+  The analysis shows that paid-plan students significantly increased their engagement over the one year, while free-plan students showed mixed results, with a decrease in typical engagement. The findings suggest 
+  that the paid-plan model leads to higher engagement, but there is a need for targeted strategies to boost the engagement of free-plan users. Additionally, regional differences, especially between students in 
+  the US and India, highlight potential areas for growth and content customization.
