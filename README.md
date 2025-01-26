@@ -1,4 +1,4 @@
-# Student Engagement Analysis
+# 365DataScience Student Engagement Data: An Excel Analysis
 ## Project Objective
   This project aims to analyze students' engagement using a platform with paid and free subscription plans. The analysis compares student activity from Q4 2021 to Q4 2022, examining how their viewing habits 
   changed over time, and how engagement differs between paid and free plan users. We aim to identify trends and insights that can inform platform improvements and strategies to boost user engagement.
