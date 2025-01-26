@@ -12,12 +12,13 @@
 ## Process
 - ### Data Collection:
   The data used in this project comes from the 365 Data Science website, tracking how many minutes students spent watching content in Q4 2021 and Q4 2022. It helps 
- analyze changes in student engagement over time, comparing paid and free-plan users.[Raw Data File Link] 
+ analyze changes in student engagement over time, comparing paid and free-plan users.[Raw Data File Link](https://www.dropbox.com/scl/fi/qtvfrk8vn0hl0edex08aj/Engagement-Project.xlsx?rlkey=qnnjeb21t4l5687rqxjir0bte&st=yhi9yzh9&dl=0)
+
 - ### Descriptive Statistics:
-  Analyzed engagement data for both paid and free-plan students using key metrics like mean, median, and standard deviation. By exploring skewness and kurtosis, we uncovered important patterns—revealing asymmetries in engagement and identifying outliers, which highlighted extreme behaviors.[Raw Data File](https://github.com/Nithindomala/Student-Engagement-Analysis/blob/main/Descriptive%20Statistics%20-%20tasks%201-2.xlsx)
+  Analyzed engagement data for both paid and free-plan students using key metrics like mean, median, and standard deviation. By exploring skewness and kurtosis, we uncovered important patterns—revealing asymmetries in engagement and identifying outliers, which highlighted extreme behaviors.[Excel Analysis File](https://github.com/Nithindomala/Student-Engagement-Analysis/blob/main/Descriptive%20Statistics%20-%20tasks%201-2.xlsx)
   
 - ### Confidence Intervals: 
-  Calculated confidence intervals to confidently estimate the range of student engagement across both years, enabling a clear view of how student behavior shifted between 2021 and 2022. This provided a solid foundation for further analysis.
+  Calculated confidence intervals to confidently estimate the range of student engagement across both years, enabling a clear view of how student behavior shifted between 2021 and 2022. This provided a solid foundation for further analysis.[Excel Analysis File](https://github.com/Nithindomala/Student-Engagement-Analysis/blob/main/Confidence%20Intervals%20-%20task%203.xlsx)
   
 - ### Hypothesis Testing:
   Conducted t-tests to validate whether engagement changes were statistically significant, ensuring the results were reliable. Regional analysis (comparing US vs. India students) revealed key regional trends, helping to tailor engagement strategies based on geographic patterns.
