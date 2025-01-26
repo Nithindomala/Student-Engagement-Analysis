@@ -21,10 +21,10 @@
   Calculated confidence intervals to confidently estimate the range of student engagement across both years, enabling a clear view of how student behavior shifted between 2021 and 2022. This provided a solid foundation for further analysis.[Excel Analysis File](https://github.com/Nithindomala/Student-Engagement-Analysis/blob/main/Confidence%20Intervals%20-%20task%203.xlsx)
   
 - ### Hypothesis Testing:
-  Conducted t-tests to validate whether engagement changes were statistically significant, ensuring the results were reliable. The test outcomes are available in the [Excel Analysis File]().
+  Conducted t-tests to validate whether engagement changes were statistically significant, ensuring the results were reliable. The test outcomes are available in the [Excel Analysis File](https://github.com/Nithindomala/Student-Engagement-Analysis/blob/main/Hypothesis%20Testing%20-%20task%204.xlsx).
 
 - ### Regional Analysis:
-  Regional analysis (comparing US vs. India students) revealed key regional trends, helping to tailor engagement strategies based on geographic patterns.The regional analysis results are available in the [Excel Analysis File]() .
+  Regional analysis (comparing US vs. India students) revealed key regional trends, helping to tailor engagement strategies based on geographic patterns.The regional analysis results are available in the [Excel Analysis File](https://github.com/Nithindomala/Student-Engagement-Analysis/blob/main/Hypothesis%20Testing%20-%20task%205.xlsx).
 
 
   
