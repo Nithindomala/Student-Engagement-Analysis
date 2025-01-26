@@ -4,7 +4,7 @@
  changed over time, and how engagement differs between paid and free plan users. We aim to identify trends and insights that can inform platform improvements and strategies to boost user engagement.
 
 ## Process
-- Data Collection:
+- ### Data Collection:
  The data used in this project comes from the 365 Data Science website, tracking how many minutes students spent watching content in Q4 2021 and Q4 2022. It helps analyze changes in student engagement over time, 
  comparing paid and free-plan users.
 
