@@ -3,11 +3,16 @@
   This project aims to analyze students' engagement using a platform with paid and free subscription plans. The analysis compares student activity from Q4 2021 to Q4 2022, examining how their viewing habits 
   changed over time, and how engagement differs between paid and free plan users. We aim to identify trends and insights that can inform platform improvements and strategies to boost user engagement.
 
+## **File Structure**
+
+- [Raw Data File](C:\Users\nithi\OneDrive\Attachments\Raw data file): This file contains the raw student engagement data used for analysis.
+- [Excel Analysis File](https://www.examplelink.com/analysis): This file contains the detailed analysis, including descriptive statistics, confidence intervals, and hypothesis testing results.
+
+
 ## Process
 - ### Data Collection:
   The data used in this project comes from the 365 Data Science website, tracking how many minutes students spent watching content in Q4 2021 and Q4 2022. It helps 
- analyze changes in student engagement over time, comparing paid and free-plan users.[Raw Data File Link]
-
+ analyze changes in student engagement over time, comparing paid and free-plan users.[Raw Data File Link] 
 - ### Descriptive Statistics:
   Analyzed engagement data for both paid and free-plan students using key metrics like mean, median, and standard deviation. By exploring skewness and kurtosis, we uncovered important patterns—revealing asymmetries in engagement and identifying outliers, which highlighted extreme behaviors.
   
