@@ -5,8 +5,8 @@
 
 ## Process
 - ### Data Collection:
- The data used in this project comes from the 365 Data Science website, tracking how many minutes students spent watching content in Q4 2021 and Q4 2022. It helps analyze changes in student engagement over time, 
- comparing paid and free-plan users.
+  The data used in this project comes from the 365 Data Science website, tracking how many minutes students spent watching content in Q4 2021 and Q4 2022. It helps analyze changes in student engagement over time, 
+  comparing paid and free-plan users.
 
 - Descriptive Statistics:
  We calculated the mean, median, and standard deviation for both paid and free plan students. This helped me understand overall trends in student engagement and how spread out the engagement levels were.
